@@ -19,5 +19,5 @@ Download or clone the project, then open `index.html` in your web browser.
 I'm a beginner and welcome any suggestions! If you spot areas that can be improved (layout, design, code structure), please share your feedback.
 
 ## Author
-[Anas Pathan or ANASPATHANUSER]
+[Anaspathan-Dev]
 
